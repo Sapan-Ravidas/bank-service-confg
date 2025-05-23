@@ -1,0 +1,9 @@
+cards:
+  build:
+    version: "1.0-PROD"
+  contact:
+    name: "Sapan Ravias"
+    email: "mr.sapanrvidas.prod@abc.com"
+    mobileNumber:
+      - xxx-xxxx-xxx
+      - xxx-xxxx-xxx

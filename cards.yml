@@ -1,0 +1,9 @@
+cards:
+  build:
+    version: "1.0-DEFAULT"
+  contact:
+    name: "Sapan Ravias"
+    email: "mr.sapanrvidas.default@abc.com"
+    mobileNumber:
+      - xxx-xxxx-xxx
+      - xxx-xxxx-xxx

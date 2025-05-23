@@ -1,0 +1,9 @@
+accounts:
+  build:
+    version: "1.0-QA"
+  contact:
+    name: "Sapan Ravias"
+    email: "mr.sapanrvidas.qa@abc.com"
+    mobileNumber:
+      - xxx-xxxx-xxx
+      - xxx-xxxx-xxx
