@@ -1,6 +1,6 @@
 accounts:
   build:
-    version: "1.0-DEFAULT"
+    version: "default version"
   contact:
     name: "SapanRavias"
     email: "{cipher}2f6ea9a57c0e3912863c91072bc56ea08f1e519a78db2736c4110a28e6139269"
